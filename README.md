@@ -17,3 +17,5 @@ QUES: Write an R script to read and display digital images.
 >Print general information of the image
 
 >Explore functions imsplit,channels, and 2-D matrix data of the image.
+
+OUTPUTS ARE AVAILABLE IN THE OUTPUT FOLDER
